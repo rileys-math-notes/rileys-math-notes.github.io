@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Look, I trust that you've seen Paul's Online Math Notes (https://tutorial.math.lamar.edu/), and this is just that but for my students in high school. This is designed to follow their specific curriculum and focus on the problem areas I've noticed they struggle most with. 
 <!--
 **rileys-math-notes/rileys-math-notes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
